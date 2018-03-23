@@ -1,0 +1,27 @@
+{
+  "name": "apileraning",
+  "version": "1.0.0",
+  "description": "api para suportar a aplicação de auxilio de aprnedizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgemauro/apiTcc.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Jorge Mauro Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgemauro/apiTcc/issues"
+  },
+  "homepage": "https://github.com/jorgemauro/apiTcc#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.3"
+  }
+}
